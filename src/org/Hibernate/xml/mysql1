@@ -1,0 +1,4 @@
+Driver=com.mysql.Driver
+url=jdbc.mysql:///demo2?useUnicode=ture?characterEncoding=utf8
+user=root
+pass=
